@@ -1,0 +1,30 @@
+{
+    "run": {
+        "started_at": "2026-10-06T09:30:19.685447+00:00",
+        "finished_at": "2026-10-06T09:31:43.323351+00:00",
+        "duration_seconds": 83.637904
+    },
+    "records": {
+        "raw_total": 1100,
+        "raw_by_source": {
+            "Books to Scrape": 1000,
+            "Quotes to Scrape": 100
+        },
+        "after_cleaning_total": 1100,
+        "after_cleaning_by_source": {
+            "Books to Scrape": 1000,
+            "Quotes to Scrape": 100
+        },
+        "rejected_total": 0,
+        "rejection_reasons": {},
+        "duplicates_removed": 1,
+        "final_total": 1099,
+        "final_by_source": {
+            "Books to Scrape": 999,
+            "Quotes to Scrape": 100
+        }
+    },
+    "output": {
+        "csv_file": "/run/media/pranay/DATA/scraping_assignment/output/final_dataset.csv"
+    }
+}
